@@ -25,8 +25,8 @@ public class HomeController {
 //    }
 
 
-//   @RequestMapping("/contact")
-//   public String contact() {
-//        return "front/contact.html";
-//    }
+   @RequestMapping("/app-calender")
+   public String contact() {
+        return "front/app-calender.html";
+    }
 }
